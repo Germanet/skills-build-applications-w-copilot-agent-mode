@@ -1,0 +1,1 @@
+Crear el archivo requirements.txt con las dependencias necesarias para el backend de la aplicación OctoFit Tracker.
